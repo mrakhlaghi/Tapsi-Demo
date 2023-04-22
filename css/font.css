@@ -1,0 +1,24 @@
+@font-face {
+  font-family: IRANSans;
+  font-weight: 400;
+  font-style: normal;
+  src: url("../assets/fonts/IRANSans.ttf") ;
+}
+@font-face {
+  font-family: IRANSans-bold;
+  font-weight: 700;
+  font-style: normal;
+  src: url("../assets/fonts/IRANSans.ttf") ;
+}
+@font-face {
+  font-family: kheilisabz;
+  font-weight: 700;
+  font-style: normal;
+  src: url("../assets/fonts/kheilisabz.ttf");
+
+}
+
+body,
+button {
+  font-family: IRANSans;
+}
